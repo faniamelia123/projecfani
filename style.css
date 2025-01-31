@@ -1,0 +1,28 @@
+#jumbotron{
+  text:shadow 1px 1px;
+}
+
+#jumbotron p{
+  color:black;
+}
+
+#jumbotron h1{
+  color:rgb(99, 94, 94);
+  font-weight: bold;
+  center: 1;
+}
+
+.background-jumbotron{
+  background-image: url("asset img/summit book.jpg");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.btn-costum:hover{
+  background-color: blanchedalmond;
+  color: azure;
+  border: bisque
+}
